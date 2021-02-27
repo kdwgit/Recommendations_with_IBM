@@ -19,7 +19,7 @@ A Jupyter Notebook is required in order to do this analysis on your computer. Fu
 ## Project Motivation
 This project is part of the Udacity Data Science Nanodegree requirements. 
 
-The IBM Watson platform is used to build a recommendation engine based on the content most likely to be relevant to a user. The project consists of building various types of recommendation engines. These engines could be rank-based, user collaborative filtering and matrix factorization.
+The IBM Watson platform is used to build a recommendation engine based on the content most likely to be relevant to a user. The project consists of building various types of recommendation engines. These engines could be rank-based, user-user collaborative filtering and matrix factorization.
 
 ## Licensing, Authors Acknowledgements
 This project is part of Data Scientist Nanodegree from Udacity
